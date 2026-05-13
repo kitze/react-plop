@@ -11,6 +11,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "plop": "^2.2.0"
+    "plop": "^4.0.5"
   }
 }
